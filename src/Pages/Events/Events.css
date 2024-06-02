@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.container{
+    background-image: url("../../assets/group.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 80vh;
+    margin-top: -40px;
+   
+}
+.title{
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+
+.container-items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    align-items: center;
+    border: solid #AF8F6F;
+    border-radius: 10px;
+    width: 30%; 
+}
+.cyb-icon{
+    color: black;
+    font-size: 100px;
+    size: 80px;
+    margin-top: -10px;
+    margin-bottom: 30px;
+}
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left: 80px;
+    gap: 3rem;
+
+}

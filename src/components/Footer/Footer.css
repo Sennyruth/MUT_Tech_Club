@@ -1,0 +1,7 @@
+.footer-text{
+background-color:#6B8A7A ;
+height: 8vh;
+text-align: center;
+display: grid;
+place-content: center;
+}

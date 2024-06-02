@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+.headertitle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#6B8A7A ;
+    height: 15vh;
+    width: 100%;
+    
+}
+h1{
+    font-family: "Dancing Script", cursive;
+    margin: 3rem;
+}
+.navheader{
+    margin-right: 8rem;
+}
+.nav-list{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    font-size: 1.5rem;
+}
+.nav-list-item a{
+    text-decoration:none ;
+    text-transform:capitalize;
+    font-family: "Roboto", sans-serif;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+

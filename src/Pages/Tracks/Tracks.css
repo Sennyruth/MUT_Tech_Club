@@ -1,0 +1,53 @@
+h2{
+    text-align: center;
+    font-weight: 600px;
+    font-size: 50px;
+}
+h3{
+    font-weight: 600px;
+    font-size: 30px; 
+}
+p{
+    padding: 10px;
+}
+.tracks-container-items{
+    display: flex;
+    gap: 20px;
+    border: solid rgb(180, 177, 177);
+    margin-bottom: 20px;
+}
+button{
+    background-color:  #584e2e;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+background-color: white;
+transform: scale(95%);
+color: rgb(0, 0, 0);
+}
+.en{
+    text-align: center;
+}
+
+
+.para-text{
+    text-align: center;
+}
+.para img{
+    width: 33rem;
+}
+.form-content{
+    border: solid  #AF8F6F;
+    padding:10px;
+}
+input{
+    border: solid  #AF8F6F;
+    border-radius:5px;
+}
+label{
+    color: black;
+    font-size:20px ;
+}
