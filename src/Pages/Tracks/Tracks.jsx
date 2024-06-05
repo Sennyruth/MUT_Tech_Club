@@ -180,6 +180,8 @@ const Tracks = () => {
             <option value="course">Cloud engineering</option>
             <option value="course">Power</option>
           </select>
+          <br />
+          <button type="btn">Submit</button>
         </form>
       </div>
     </section>

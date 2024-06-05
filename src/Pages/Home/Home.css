@@ -24,6 +24,7 @@ body{
 } 
 
 .alumni-about-title{
+    font-family: "Roboto", sans-serif;
     margin-bottom: 80px; 
     padding-top: 80px;
 }
@@ -65,6 +66,12 @@ body{
     padding: 10px;
     border: solid #584e2e;
     border-radius: 10px;
+    cursor: pointer;
+}
+.cta:hover{
+background-color: white;
+transform: scale(95%);
+color: rgb(0, 0, 0);
 }
 .test-tittle{
     display: flex;
@@ -88,6 +95,7 @@ body{
     border-radius: 10px;
     background-color:#badaca;
     width: 20rem;
+   
 }
 .image-wrapper img{
     width: 100px;

@@ -5,10 +5,17 @@ const About = () => {
       <div className="about-section-maintitle">
         <h2 className="about-title">Innovate, Create, Collaborate</h2>
         <p>
-          We are a vibrant community of students, professionals, and hobbyists
-          who are excited about the endless possibilities of technology. Our
-          members come from diverse backgrounds but share a common goal: to
-          explore, understand, and shape the future of technology.
+          <h4>Mission:</h4>
+          To foster a community of technology enthusiasts by providing
+          resources, opportunities, and support for learning, innovation, and
+          collaboration in the field of technology. We aim to empower members
+          with the skills and knowledge to excel in their tech careers and
+          contribute positively to society through technology.
+          <h4>Vision:</h4>
+          to become a leading hub of technological innovation and excellence,
+          where members are inspired to explore new frontiers in technology,
+          collaborate on groundbreaking projects, and drive positive change in
+          the global tech community.
         </p>
         <div className="btn">
           <a href="" className="cta">
